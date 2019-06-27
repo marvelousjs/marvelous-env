@@ -2,7 +2,7 @@
   "name": "@marvelousjs/env",
   "version": "1.0.0",
   "description": "environment variable handling in marvelous",
-  "main": "./dist/app.js",
+  "main": "./dist/main.js",
   "devDependencies": {
     "@types/node": "^10.12.18",
     "typescript": "^3.2.1"
